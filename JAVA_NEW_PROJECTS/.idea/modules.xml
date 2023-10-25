@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_NEW_PROJECTS.iml" filepath="$PROJECT_DIR$/JAVA_NEW_PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Linked_List/Linked_List.iml" filepath="$PROJECT_DIR$/Stacks/Linked_List/Linked_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+    </modules>
+  </component>
+</project>
